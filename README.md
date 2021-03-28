@@ -12,9 +12,9 @@ _____________________________________________Folder Structure___________________
 	└── STUDENT.DAT
 
 ____________________________________________SETUP_________________________________________________________________________________________				
-1.) Start C++ compiler (Turbo C++ prefered).
-2.) Open the PROJECT.cpp compile it. 
-3.) Now you can run the menu driven program.
+1. Start C++ compiler (Turbo C++ prefered).
+2. Open the PROJECT.cpp compile it. 
+3. Now you can run the menu driven program.
 
 *******************************************************************************************************************************************
 
